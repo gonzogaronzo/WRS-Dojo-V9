@@ -1,0 +1,56 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    font-family: 'Inter', sans-serif;
+    background-color: #fdf6e3; /* Rice Paper */
+  }
+  .font-serif {
+    font-family: 'Noto Serif JP', serif;
+  }
+}
+
+@layer utilities {
+  .animate-in {
+    animation-name: fade-in;
+    animation-duration: 0.5s;
+    --tw-enter-opacity: initial;
+    --tw-enter-scale: initial;
+    --tw-enter-rotate: initial;
+    --tw-enter-translate-x: initial;
+    --tw-enter-translate-y: initial;
+  }
+  .fade-in {
+    animation-name: fade-in;
+  }
+  .zoom-in {
+      animation-name: zoom-in;
+  }
+  .slide-in-from-top-4 {
+      animation-name: slide-in-from-top;
+      --tw-enter-translate-y: -1rem;
+  }
+  .slide-in-from-bottom-4 {
+      animation-name: slide-in-from-bottom;
+      --tw-enter-translate-y: 1rem;
+  }
+  .slide-in-from-left-2 {
+      animation-name: slide-in-from-left;
+  }
+  
+  /* Hide Scrollbar Utilities */
+  .scrollbar-hide::-webkit-scrollbar {
+      display: none;
+  }
+  .scrollbar-hide {
+      -ms-overflow-style: none;
+      scrollbar-width: none;
+  }
+
+  /* Custom Clip Path for Home Plate in Baseball Game */
+  .clip-path-home-plate {
+    clip-path: polygon(0 0, 100% 0, 100% 50%, 50% 100%, 0 50%);
+  }
+}
