@@ -1,4 +1,3 @@
-
 export interface WordCard {
   id: string;
   text: string;
@@ -25,17 +24,37 @@ export interface Slide {
   id: string;
   type: 'text' | 'image' | 'word';
   title: string;
-  content: string; 
+  content: string;
+}
+
+export interface LessonSource {
+  part: string;
+  source: string;
+  edition?: string;
+  location?: string;
+  status: 'verified' | 'working-source' | 'teacher-selected' | 'version-mismatch';
+  note?: string;
+}
+
+export interface Part10Config {
+  task: 'listening-comprehension' | 'interactive-oral-reading' | 'scaffolded-silent-reading' | 'oral-fluency';
+  title: string;
+  source?: string;
+  pages?: string;
+  text?: string;
+  vocabulary?: string[];
+  prompts?: string[];
+  teacherNotes?: string;
 }
 
 export interface Lesson {
   id: string;
-  title: string; 
+  title: string;
   step: string;
   substep: string;
   conceptNotes: string;
-  conceptNotes7?: string; 
-  cipherWords?: string[]; 
+  conceptNotes7?: string;
+  cipherWords?: string[];
   cipherDistractors?: string[];
   googleSlidesUrl?: string;
   slides: Slide[];
@@ -49,6 +68,8 @@ export interface Lesson {
   hfwList: string[];
   affixPractice: AffixEntry[];
   passage?: string;
+  part10?: Part10Config;
+  sources?: LessonSource[];
   lastUpdated?: string;
 }
 
@@ -69,13 +90,13 @@ export interface StudentProfile {
   attendanceCount: number;
   lastSeen?: string;
   notes: string;
-  history: { date: string; lessonTitle: string; step: string }[]; // Individual log
+  history: { date: string; lessonTitle: string; step: string }[];
 }
 
 export interface GroupProfile {
   id: string;
   name: string;
-  studentIds: string[]; 
+  studentIds: string[];
   inventory: {
     learnedSounds: string[];
     learnedHFW: string[];
@@ -123,5 +144,5 @@ export const LESSON_PARTS = [
   { id: LessonPart.Part7, title: "7. Teach Concepts (Spelling)", icon: "Edit3" },
   { id: LessonPart.Part8, title: "8. Written Work (Dictation)", icon: "PenTool" },
   { id: LessonPart.Part9, title: "9. Passage Reading", icon: "FileText" },
-  { id: LessonPart.Part10, title: "10. Listening Comp", icon: "Headphones" },
+  { id: LessonPart.Part10, title: "10. Fluency / Comprehension", icon: "Headphones" },
 ];
