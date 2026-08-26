@@ -1,0 +1,234 @@
+{
+  "id": "wrs-8-2-reference-intro",
+  "title": "Step 8.2 Lesson",
+  "step": "8",
+  "substep": "2",
+  "conceptNotes": "INTRODUCTORY / ONGOING 8.2. Teach combining ar and or r-controlled syllables with other syllable types. Review syllable division: compounds divide between words; when the first syllable is r-controlled, division is usually after r; divide after a taught prefix. Model and discuss market, hardware, acorn, portion, shortcut, backyard, party, forty, garlic, orbit, restart, disarm, recharge. Mark carpet and backyard. Student Notebook: add carpet and backyard to the R-controlled Syllable page; practice carpet in Mark Words and backyard on the Compound Words page.",
+  "conceptNotes7": "INTRODUCTORY / ONGOING 8.2 SPELLING. Use facedown Syllable Cards. Dictate market; student repeats, names each syllable, orally spells each syllable, flips cards to check, then scoops and reads the completed word. Additional source examples: garden, particle, glory. For a prefixed stand-alone base, use repark and discuss re- + park. There are no new sounds in 8.2.",
+  "cipherWords": [
+    "m/ar/ket",
+    "h/ar/dware",
+    "sh/or/tcut",
+    "backy/ar/d",
+    "p/ar/ty",
+    "f/or/ty"
+  ],
+  "cipherDistractors": [],
+  "googleSlidesUrl": "",
+  "slides": [
+    {
+      "id": "82-r1",
+      "type": "text",
+      "title": "R-controlled syllables can join other syllable types",
+      "content": "At 8.2 we combine ar and or r-controlled syllables with other syllables."
+    },
+    {
+      "id": "82-r2",
+      "type": "word",
+      "title": "Build and read",
+      "content": "market"
+    },
+    {
+      "id": "82-r3",
+      "type": "text",
+      "title": "Compare the syllable types",
+      "content": "market = r-controlled + closed\nhardware = r-controlled + vowel-consonant-e\nacorn = open + r-controlled\nportion = r-controlled + final stable"
+    },
+    {
+      "id": "82-r4",
+      "type": "text",
+      "title": "Divide compound words",
+      "content": "shortcut   starfish   backyard\nDivide between the two words."
+    },
+    {
+      "id": "82-r5",
+      "type": "word",
+      "title": "When the first syllable is r-controlled",
+      "content": "party"
+    },
+    {
+      "id": "82-r6",
+      "type": "text",
+      "title": "Practice dividing after r",
+      "content": "party   forty   garlic   orbit"
+    },
+    {
+      "id": "82-r7",
+      "type": "text",
+      "title": "Divide after a prefix",
+      "content": "restart   disarm   recharge"
+    },
+    {
+      "id": "82-r8",
+      "type": "text",
+      "title": "Notebook",
+      "content": "R-controlled Syllable page: carpet, backyard\nMark Words: carpet\nCompound Words page: backyard"
+    }
+  ],
+  "quickDrill": [
+    "ar",
+    "er",
+    "ir",
+    "or",
+    "ur"
+  ],
+  "quickDrillReverse": [
+    "/ar/",
+    "/or/",
+    "/er/"
+  ],
+  "wordCards": [
+    { "id": "82-w1", "text": "market", "type": "regular" },
+    { "id": "82-w2", "text": "garden", "type": "regular" },
+    { "id": "82-w3", "text": "harvest", "type": "regular" },
+    { "id": "82-w4", "text": "carpet", "type": "regular" },
+    { "id": "82-w5", "text": "party", "type": "regular" },
+    { "id": "82-w6", "text": "margin", "type": "regular" },
+    { "id": "82-w7", "text": "forest", "type": "regular" },
+    { "id": "82-w8", "text": "morning", "type": "regular" },
+    { "id": "82-w9", "text": "orbit", "type": "regular" },
+    { "id": "82-w10", "text": "formula", "type": "regular" },
+    { "id": "82-w11", "text": "backyard", "type": "regular" },
+    { "id": "82-w12", "text": "porcupine", "type": "regular" }
+  ],
+  "wordListReading": [
+    "marble",
+    "harvest",
+    "forbid",
+    "orbit",
+    "target",
+    "particle",
+    "garden",
+    "hormone",
+    "uniform",
+    "carbon",
+    "exploration",
+    "cargo",
+    "ivory",
+    "morning",
+    "northwest",
+    "glory",
+    "decoration",
+    "startle",
+    "portion",
+    "regard",
+    "party",
+    "margin",
+    "army",
+    "formula",
+    "divorce",
+    "carpet",
+    "oral",
+    "alarm",
+    "platform",
+    "article"
+  ],
+  "wordListReadingAuto": false,
+  "sentences": [
+    "On our last camping trip, we spent the evenings watching the stars sparkle.",
+    "The price of a carton of milk will vary from market to market.",
+    "Ed put the harmonica in his pocket.",
+    "The party had a variety of games.",
+    "Which vocabulary words should I target when I study?",
+    "The price of that marble will vary from shop to shop.",
+    "Did you see all the rusty cars in the junkyard?",
+    "The chirp of a fire alarm varies from product to product.",
+    "Martha did not want to participate in the contest.",
+    "A new fence was installed around the entire ballpark."
+  ],
+  "dictation": {
+    "sounds": [
+      "ar",
+      "or",
+      "er / ir / ur = /er/ review"
+    ],
+    "realWords": [
+      "department",
+      "remark",
+      "garden",
+      "market",
+      "carpet",
+      "harvest",
+      "farmland",
+      "apartment",
+      "garlic",
+      "argument"
+    ],
+    "wordElements": [],
+    "nonsenseWords": [],
+    "phrases": [],
+    "sentences": [
+      "Nancy had some fudge at the carnival.",
+      "My badge has a unicorn on it.",
+      "The alarm at the mansion went off in the morning.",
+      "Doris must replace the lost boxcar.",
+      "A tornado was predicted in Kansas."
+    ]
+  },
+  "hfwList": [
+    "vary",
+    "varies",
+    "variety",
+    "vocabulary"
+  ],
+  "affixPractice": [],
+  "passage": "Backyard Visitor\n\nMartin wakes up each day before sunrise. After he has something good to eat like a cup of pineapple chunks, Martin likes to sit on his deck and watch the sun come up. In Portland, he can only do this a few months a year when it’s not too cold outside.\n\nOne day, Martin looks across his backyard through the forest expecting to see the sun start to rise any minute. All of a sudden, Martin hears a strange sound and spots something move near the small shrubs that stretch from his garage to the edge of his garden. Martin thinks that it could be any variety of small animals who call Oregon home. He wants to get a close-up look, but he hesitates. He doesn’t want to end up face to face with an angry skunk.\n\nMartin walks carefully down the steps of the deck and starts to make his way across the small backyard. He is mindful not to startle the animal. Just then, the sun begins to pop up over the horizon, and Martin can now absolutely recognize the wild animal in the area of the shrubs. It’s a porcupine!\n\nHe is glad that it’s not a skunk, but Martin knows not to get too close. A porcupine can discharge sharp spines called quills into anything that comes into direct contact with it. Martin makes his way back to the safety of his deck. He is quite sure that he has had plenty of exploration for one morning.",
+  "part10": {
+    "task": "interactive-oral-reading",
+    "title": "Teacher-selected read-along",
+    "source": "Choose immediately before class",
+    "pages": "",
+    "vocabulary": [],
+    "prompts": [],
+    "teacherNotes": "Runtime slot by design. Select the read-along before class. Use an accessible non-controlled readable text; support vocabulary, fluent phrasing, meaning, retell, and comprehension discussion as appropriate."
+  },
+  "sources": [
+    {
+      "part": "1-8",
+      "source": "WRS Step 8 Instructor Manual faithful transcription",
+      "edition": "Fourth Edition",
+      "location": "Substep 8.2, Instructor Manual pp. 186-195",
+      "status": "verified",
+      "note": "Primary authority for instructional sequence and procedures."
+    },
+    {
+      "part": "4-5, 9",
+      "source": "WRS Student Reader Eight",
+      "edition": "Fourth Edition",
+      "location": "Substep 8.2; wordlists printed pp. 40-47, sentences pp. 48-57, Backyard Visitor pp. 58-59",
+      "status": "working-source",
+      "note": "Searchable Markdown is working source; source scan remains authoritative for exact visual layout."
+    },
+    {
+      "part": "2 / Notebook",
+      "source": "WRS Student Notebook Answer Key Steps 7-12",
+      "edition": "Fourth Edition",
+      "location": "R-controlled Syllable page, printed p. 26",
+      "status": "verified",
+      "note": "Confirms carpet and backyard as 8.2 examples."
+    },
+    {
+      "part": "3 / HFW",
+      "source": "WRS Student Notebook Answer Key Steps 7-12 and cleaned HFW inventory",
+      "edition": "Fourth Edition",
+      "location": "High Frequency Words, printed p. 107",
+      "status": "verified",
+      "note": "Confirms vary, varies, variety, vocabulary at 8.2."
+    },
+    {
+      "part": "8",
+      "source": "WRS Dictation Book Steps 7-12 searchable transcription",
+      "edition": "Third Edition",
+      "location": "8.2 A Words and 8.2 A Sentences",
+      "status": "version-mismatch",
+      "note": "Included only to exercise the Part 8 runtime. Do not treat as Fourth Edition fidelity until the updated Dictation Book is supplied/verified."
+    },
+    {
+      "part": "10",
+      "source": "Teacher-selected read-along",
+      "status": "teacher-selected",
+      "note": "Intentionally selected at runtime immediately before class."
+    }
+  ],
+  "lastUpdated": "2026-08-26"
+}
